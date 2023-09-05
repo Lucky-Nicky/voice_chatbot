@@ -40,8 +40,8 @@ context = ""
 import openai
 
 # openai.log = "debug"
-
-openai.api_key = "sk-L95YXqkGeimdD4gGWJdcxLpuGsB4MoCiVxcgEbZq4UHFHjdP"
+openai.api_key = get_user_conf('openai_api_key')
+# openai.api_key = "sk-L95YXqkGeimdD4gGWJdcxLpuGsB4MoC"
 openai.api_base = "https://api.chatanywhere.com.cn/v1"
 
 # 非流式响应
