@@ -1,0 +1,9 @@
+date	交易所行情日期
+code	证券代码
+open	开盘价
+high	最高价
+low	最低价
+close	收盘价
+preclose	前收盘价
+volume	成交量（累计 单位：股）
+amount	成交额（单位：人民币元）
