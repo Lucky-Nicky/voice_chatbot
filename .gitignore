@@ -1,4 +1,4 @@
-userconfig.json
+#userconfig.json
 **/pycache
 **/*.pyc
 venv/
