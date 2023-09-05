@@ -3,3 +3,4 @@ userconfig.json
 **/*.pyc
 venv/
 .pytest_cache
+.idea/
